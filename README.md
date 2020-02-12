@@ -1,4 +1,4 @@
-# CustomAlertView
+# CustomizedAlertView
 
 ![](oktay-kurt-swift-custom-alert.gif)
 
